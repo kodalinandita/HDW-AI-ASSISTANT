@@ -3,19 +3,35 @@ A speech and text compatible AI chat bot
 
 ## TO RUN AN INSTANCE
 
-### Replace API key in line 14 with your own.
-<img width="380" alt="image" src="https://github.com/user-attachments/assets/55080b85-7022-4f7f-8051-2f961c782369">
+  ### Replace API key in line 14 with your own.
+  <img width="380" alt="image" src="https://github.com/user-attachments/assets/55080b85-7022-4f7f-8051-2f961c782369">
+  
+  ### In the terminal, type this command
+  ```streamlit run main.py```
+  
+## THINGS TO ADD
 
-### Create a function to connect DB for users' personal queries
-1. Username
-2. Account Balance
-3. Any other details you want the user to be able to access but make sure to modify the template (line 178 - 193) accordingly and include the 'if's' for it.
+  ### Create a function to connect DB for users' personal queries
+  1. Username
+  2. Account Balance
+  
+  <img width="946" alt="image" src="https://github.com/user-attachments/assets/66516158-d3a0-4942-a4c7-2a624e376263">
+  
+  3. Any other details you want the user to be able to access but make sure to modify the template (line 178 - 193) accordingly and include the 'if's' for it.
 
-### Add more data for the chat bot to recognize
-Add more files in the data folder for the program to feed them to the chat bot.
+  <img width="943" alt="image" src="https://github.com/user-attachments/assets/9fcf671f-ea5b-467c-8c99-4afaa01579ca">
 
-### In the terminal, type this command
-'streamlit run main.py'
+  ### Connect action function
+  1. Start a game
+  2. Withdraw money
+  3. Deposit money
+ 
+  <img width="971" alt="image" src="https://github.com/user-attachments/assets/95145276-fc4c-46b6-ab4d-d4825d9b9a9a">
+
+  4. Any other details you want the user to be able to access but make sure to modify the template (line 178 - 193) accordingly and include the 'if's' for it.
+  
+  ### Add more data for the chat bot to recognize
+  Add more files in the data folder for the program to feed them to the chat bot.
 
 ## IMPROVEMENTS TO BE MADE
 
@@ -25,8 +41,11 @@ Add more files in the data folder for the program to feed them to the chat bot.
   <img width="775" alt="image" src="https://github.com/user-attachments/assets/1ec1580e-929e-4b5c-a709-c6d444f49f7b">
 
 - Speech input: Change the icon for recording to a more intuitive design
-  Not recording: <img width="727" alt="image" src="https://github.com/user-attachments/assets/d12f9dc7-e55f-4b91-a983-ec32741f1399">
-  Recording: <img width="727" alt="image" src="https://github.com/user-attachments/assets/4ce0d967-d63a-47cf-922f-190b4a4a24ea">
+  Not recording:
+  <img width="727" alt="image" src="https://github.com/user-attachments/assets/d12f9dc7-e55f-4b91-a983-ec32741f1399">
+  
+  Recording:
+  <img width="727" alt="image" src="https://github.com/user-attachments/assets/4ce0d967-d63a-47cf-922f-190b4a4a24ea">
 
 
 ### LLM inefficiency
