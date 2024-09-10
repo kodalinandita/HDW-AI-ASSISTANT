@@ -197,15 +197,15 @@ def ask_gpt(query):
         response_text = model.invoke(prompt)
 
         if('username' in response_text.content):
-            return #ADD_DB_QUERY_HERE                                                           # Returns username
+            return "Add DB query for username" #ADD_DB_QUERY_HERE                               # Returns username
         elif('balance'in response_text.content):
-            return #ADD_DB_QUERY_HERE                                                           # Returns account balance
+            return "Add DB query for Balance" #ADD_DB_QUERY_HERE                                # Returns account balance
         elif('START_GAME'in response_text.content):
-            return #ADD_FUNC_CALL_HERE                                                          # Function to initialize game
+            return "Add function for START_GAME" #ADD_FUNC_CALL_HERE                            # Function to initialize game
         elif('WITHDRAW_MONEY'in response_text.content):
-            return #ADD_FUNC_CALL_HERE                                                          # Function to withdraw money
+            return "Add function for WITHDRAW" #ADD_FUNC_CALL_HERE                              # Function to withdraw money
         elif('DEPOSIT_MONEY'in response_text.content):
-            return #ADD_FUNC_CALL_HERE                                                          # Function to deposit money
+            return "Add function for DEPOSIT" #ADD_FUNC_CALL_HERE                               # Function to deposit money
         
         else:                                                                                   # Doesn't match any of the above contexts
             last_msg = ""
