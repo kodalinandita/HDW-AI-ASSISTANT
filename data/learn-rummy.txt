@@ -1,0 +1,234 @@
+How to Play Rummy Game: Rummy Rules Guide
+
+Rummy is a fun and exciting card game that can be enjoyed by people of all ages. In this guide, we will walk you through the basic rummy rules so you can start playing in no time!
+
+The goal of Rummy is to be the first player to get rid of all your cards by forming sets and sequences. There are a few different ways to play Rummy, but this guide will cover the basics of rummy.
+
+So grab a deck of cards or open the A23 app on your phone, round up some friends, and get ready to play!
+
+
+The Objective of a Rummy Card Game
+The main goal in Rummy is to discard all the cards in your hand as fast as possible. You do this by forming groups of cards called sets and runs/sequences.
+
+Sets are easy to remember - they are simply three or four cards that have the same number but different suits. For instance, three 7s or four Kings would be sets.
+Runs or Sequences are also straightforward. They are three or more cards of the same suit in a row, like 5♥, 6♥, and 7♥.
+The key to winning Rummy is to combine your cards into sets and sequences strategically. Once you have created a set or run, you can place it down on the table, getting rid of those cards from your hand. The first player to get rid of all their cards wins the game!
+
+How to Play Rummy?
+Rummy is a fun card game for 2 to 6 players. Here is how to play:
+
+Get the Cards: Grab 2 decks of cards.
+Deal the Cards: Each player gets 13 cards dealt face down. One card is chosen at random to be the wild card, like a Joker card.
+Goal of the Game: Be the first player to get rid of all your cards!
+On your turn, you can draw a card from either the face-down deck or the discard pile where other players have thrown away cards. You cannot just hold onto any cards, though! You need to use them to form "melds." These melds can be:
+
+Sets: Three or four cards of the same rank but different suits (like three 7s or four Queens).
+Runs or Sequences: Three or more cards of the same suit in a row (like 6♥, 7♥, 8♥).
+Rummy Guide on Winning the Game:
+while a run contains three or more cards of the same suit in a sequence, like ♥A  ♥2  ♥3 (see what we did there?). This variation of Rummy is called basic/traditional rummy - there are other variants as well. Once you have at least two sequences, including one made entirely of consecutive cards in the same suit, a pure sequence, and all your other cards are in melds, you can declare "Rummy!" and show your hand. If your melds are valid, you win the round.
+
+So, now you must be aware of how to play cards in rummy! Let us now move on to the next section, where we will learn about the calculation of points in the game.
+
+How are Points Calculated in a Rummy Game as per Rummy Rules?
+
+Face cards (Jack, Queen, King, Ace): These are worth 10 points each.
+Numbered cards: These are easy to remember. They simply count their face value in points (a 7 is 7 points, an 8 is 8 points, and so on).
+Jokers: Jokers score 0 points.
+When a round ends, any cards you have not melded (used in sets or sequences) are added up according to their point value. The player with the lowest total points wins the round.
+
+Common Rummy Rules for Point Calculation
+In Points Rummy, winning requires declaring zero points after organising your 13 cards into valid sequences and sets.
+
+
+To win, you must declare before others with all 13 cards arranged in valid sequences and sets, totalling zero points. This makes Rummy fast-paced.
+
+Point Calculation for Losing Players:
+If you have not formed any of the two compulsory sequences, you get points equal to the total points of your 13 cards, maxing out at 80 points.
+If you have the compulsory sequences but have not grouped the rest, you get points from the ungrouped cards.
+If you fail to meet the objective, you get points from all 13 cards regardless of sequences.
+How are Your Winnings Calculated in Rummy Cash Games?
+In Points Rummy, a version of the classic 13-card Indian Rummy, players engage in a thrilling contest where each card carries a predetermined rupee value. The objective is to be the first player to declare with zero points, securing victory and claiming all the cash stakes based on opponents' accumulated points.
+
+This format is renowned for its speed and simplicity, making it one of the most favoured variations of Rummy.
+
+The calculation for winnings in Points Rummy is straightforward yet pivotal:
+
+Winnings = (Total Points of Opponents) X (Rupee Value of Each Point) - A23 Fees
+
+Rummy Rules: Important Terms
+Are you still learning the ropes of the Rummy card game? This section is for you! We will break down some key terms you will encounter throughout the game.
+
+Understanding these words will help you play smoothly, strategise effectively, and impress your fellow Rummy enthusiasts!
+
+Rummy Table
+Imagine a virtual table where you and your opponents battle it out with cards. This "table" is simply the space where cards are dealt, drawn, and discarded during the game. In online Rummy, the table will be displayed on your screen.
+
+Rummy Sets:
+These are groups of 3 or 4 cards with the same rank but different suits. For example, three 9s (one Spade, one Heart, and one Diamond) or four Queens (of any suit) would be valid sets.
+
+Rummy Sequences:
+These are three or more consecutive cards of the same suit. For instance, 3♦, 4♦, and 5♦ or 9♠, 10♠, Jack♠, Queen♠ would be sequences.
+
+Pure Sequence:
+This is the golden standard for sequences. It is a run of consecutive cards with the same suit, built without any wild cards. For example, 3♣, 4♣, and 5♣ is a pure sequence. In some variations of Rummy, you might need at least one pure sequence to declare Rummy.
+
+Impure Sequence:
+This sequence uses a wild card, like a joker, to bridge the gap between consecutive cards. For instance, 7♣, 8♣, Wild Card, and 9♣ is an impure sequence. While some variations allow impure sequences, they might not hold the same weight as pure sequences.
+
+Draw and Discard
+Draw: On your turn, you can draw a card from either the face-down deck, i.e., the fresh cards, or the discard pile, i.e., the cards thrown away by other players. This lets you build your hand and potentially find the cards you need to form sets or sequences.
+
+Discard: After drawing a card, you must discard one card face-up onto the discard pile. This might be a card you do not need or a strategic move to mislead your opponents.
+
+Sorting of Cards
+Sorting your cards by suit and rank can significantly improve your gameplay. This allows you to see what sets and sequences you can potentially form easily and helps you plan your strategy.
+
+Drop
+In some variations of Rummy card games, dropping allows you to leave the game early if you think your hand is weak. However, this often comes with a penalty in the form of points added to your score.
+
+Chips
+In online Rummy, chips might be used as a virtual currency to enter cash tournaments or play practice games. Think of them as tokens for playing the game.
+
+Jokers and Wild Cards
+Joker: A special card that can act as any other card to complete a set or sequence. However, jokers might have specific rules depending on the Rummy variation you are playing. This comes in the form of a printed Joker card.
+
+Wild Card: Similar to a joker, a wild card can substitute for other cards. The specific rules for wild cards will depend on the game variation. Sometimes, a chosen card from the deck becomes the wild card.
+
+Cash Tournaments
+These are online Rummy tournaments where players compete for real money prizes. A certain amount of money might be required to participate, and the winner takes home the pot of collected prize money.
+
+Indian Rummy Rules & Score Calculation
+As per the rules of rummy, individuals are required to play Rummy with two decks of cards and two Jokers. The cards are ranked low to high: Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, and King.
+
+The Jack, Queen and King are known as face cards (refer to the Rummy guide)
+The Ace can not only be used as a 1, but also as a face card
+Read Less
+Joker-related Rules in Rummy
+The player has the availability of two Joker types - the first is the Cut Joker and the second is the Paper joker.
+
+Rummy Rules(Cut Joker)
+Rummy Rules 13 Card(Paper Joker)
+In the game, Aces become Jokers if the paper Joker turns out to be the Cut Joker.
+Rules on Rummy Sequences
+As per Rummy rules, 13 cards have to be arranged in sequences (Life) and sets. The following comprises a valid show: (1) Pure Life (2) Second Life (3) Cards left arranged as Life and/or Sets
+
+A Sequence without a Joker is called a Pure Life
+Sequence Rummy
+(When there is a Pure Life without a Joker) The Second life sequence can be one with a Joker (making it an Impure Life sequence) or without a Joker present (making it a Pure Second Life sequence)
+
+Indian Rummy Game Rules
+(When there is an Impure Life with a Joker) When there is one or more Life/Set: Card either as Life or sets, it is called an Impure Life. A group of 3-4 cards that have the same rank, but are from different suits, make a set. They can contain Jokers.
+
+
+Score-related Rules in Rummy
+There are 0 points in a valid show, as per the Rummy guide
+When you play rummy, a game is concluded when the first valid show is made. The other players then have to arrange their cards in the best groups possible for a minimal score.
+The player's score is determined by the arrangement and validity of card groups.
+In Indian Rummy, the face cards (Jack, Queen, King and Ace) have a value of 10 points each.
+A player can score a maximum of 80 points per game.
+However, if the player's initiated show is found to be wrong, then as per the Rummy sequence rules, they get an 80-point penalty, irrespective of the cards they hold at hand.
+Rules on Rummy Score Calculations
+If a Pure Life is not present in a player's show, the score is calculated by adding the face value of all cards. The Maximum achievable score in the game is 80.
+
+Rules to Play Rummy
+In Rummy online, if a player initiates a show, which has a Pure Life, but a Second Life is absent, then the score is calculated by adding the face value of all cards apart from the Pure Life ones.
+
+Rummy Set
+If a Pure Life and Second Life is included in the player's show but there is no Set/Life, the face value of the remaining cards, if any, is totalled up in order to calculate the final score, as per the Rummy guide.
+
+Indian Rummy Rules
+If Pure Life sets, Second Life sets and/or any other valid Life/Sets are included in the show, then the player's score is considered to be 0.
+
+Rummy Rules 13 Cards
+Wrong Rummy Sets
+Example 1
+As per the Rummy guide, a set has a maximum of 4 cards. However, each of them should be from a different suit and have the same face value. In one deck, there can only be a maximum of 4 suits. By adding a joker as a fifth card in a triplet, it is considered as one of the 4 suits. 
+
+Example 2
+A maximum of 4 cards can be in a set, if Rummy rules are followed. Each of them should be from a different suit and have the same face value. A set cannot be classified as one if there is more than 1 card from the same suit. 
+
+Example 3
+Each card in the set should be from a different suit and have the same face value. It cannot be considered as a set if it has more than 4 cards. 
+
+Example 4
+For a show to be valid, it needs to have one sequence with no Jokers and one Life that can be both with or without a Joker. 
+
+Example 5
+For a show to be valid, it needs to have one sequence with no Jokers and one Life that can be both with or without a Joker. 
+
+Common Terms used in Indian Rummy Rules
+
+What is a Table?
+As per Rummy card rules, a game of Rummy online is played on a table. In a typical case, one game of Indian rummy is played on one Table at a time.
+
+What is a Deck of cards?
+According to Rummy rules, a deck of cards consists of:
+4 suits of 13 cards, creating a group of 52
+1 Wild Card joker, which is also known as a Paper Joker
+
+What is a Joker?
+One randomly selected card from the deck becomes the Joker for the game, according to Rummy card rules. All cards of the same rank in any suit are considered Jokers, as well. Two other joker cards with the Joker symbol will also be present. While playing Rummy online, a Joker card can be used as any card while making sets. However, as per Rummy rules, one sequence in the game needs to be made without a Joker card.
+
+What are Chips?
+On A23, players need Chips to play Rummy online. Chips are deducted from a player's account when they initiate a game - they are also rewarded Chips when they win, depending on the reward in store.
+
+There are three Chip types:
+
+Play Chips: These free Chips can be used to play Rummy and other games. Once the balance goes below 1000, these can be reloaded.
+Cash can be used to play games involving cash-based rewards and prizes.
+Tournament Chips are applicable only for Multi Table Tournaments; these are only added to the player's account when they register a Tournament on A23.
+What is a Round?
+As per the Rummy guide, a Round is essentially a simple game of Rummy, which starts with the dealing of cards and ends with a successful Show being made.
+
+What is Dealing?
+To play Rummy, each player needs to be given cards. This act of card distribution is called Dealing.
+
+What is Draw and Discard?
+In all Rummy online games, players can pick from 2 stacks and draw a card. Once a card is drawn, a card has to be gotten rid of, as well - this means discarding.
+Cards can be drawn from either the un-dealt pile or the discarded pile. A turn can be dropped, as well. However, this can only be done before drawing a card - refer to the Rummy rules.
+
+What is Meld and Show?
+Players are provided with 13 cards per hand. When you play Rummy, the objective is to arrange them into 4 groups of 3, 3, 3, and 4. They can be both Life or Set in nature. Once these groups are made, they have to be submitted for validation. This is called Show, in which the player has to arrange the cards into Lives or Sets - this is called Melding.
+
+What is a Group?
+Grouping is the activity wherein a player can arrange their cards into groups of their choice. When playing Rummy online on an A23 table, the "Group" button appears when two or more cards are selected. This button enables players to create separate groups for these selected cards. A maximum of 6 groups can be created on A23 at one time.
+
+What is a Drop?
+Before Drawing the first card, the players have a choice to avoid playing a round. As per the Rummy card rules, this is called a Drop.
+If a drop is made in 101 Pool, the given score is 20.
+If a drop is made in 201 Pool, the given score is 25.
+If a drop is made in 51 Pool, the given score is 10.
+In Best of 2 and Best of 3, a drop cannot be made
+
+What is a Middle Drop?
+By neither Drawing nor Discarding any cards, a player can make the choice of not playing after the beginning of a round. This is called Middle Drop in Indian rummy rules.
+If a middle drop is done in 101 Pool, the score given is 40.
+If a middle drop is done in 201 Pool, the score given is 50.
+If a middle drop is done in 51 Pool, the score given is 20.
+A Middle Drop should not be made in Best of 2 and Best of 3.
+
+What is Auto Drop?
+An Auto Drop allows a player the choice to not play a round, but only before their turn.
+
+Once the player's turn arrives, the hand gets dropped.
+
+This cannot be done once a card is drawn or discarded.
+
+What is a Full Count?
+The highest possible score reachable in one round is called a Full Count. In all A23 games, the count is 80 points.
+
+What is "Meld Group" in Rummy Online?
+When players place a show after their groups are created, the "Meld Group" option is shown to them. This "Group Meld" option lets players use a single click to meld all the cards in a group into one. In case this is not desired, the "Group Meld" can be disabled by selecting one card in the group. This feature can be ignored entirely by picking one card from a group and the player then has the ability to meld cards from other groups.
+
+Play Rummy: When is a deck reshuffled?
+Reshuffling is done when all of a deck's cards have been completed. This process utilizes the discarded and dropped cards, with cards that were dropped initially and during the middle, as well.
+
+Rummy Guide: What is Group Save?
+For the players who use grouping during gameplay, groups will be saved on our servers and will be used to decide your score. Group Save will happen as soon as any change is made to groups. In case of disconnection, your last saved groups will be used for deciding your score. Group save is disabled the moment the player stops using grouping functionality. New groups will be saved the moment grouping is enabled.
+
+Rummy Online: What is Autoplay?
+When someone disconnects, the Autoplay feature gets enabled for pool and stake table players playing Indian Rummy - this is only if a card has been drawn from either the open or the closed deck. The default number of autoplay rounds is three, after which the system decides the course of the game based on the saved group score of the player while playing Rummy online.
+
+In case the saved group score is lower than the middle drop count, the autoplay movement will continue until a show is placed by another player. If the score is higher, then the player will be in contention for a middle drop, according to the Rummy sequence rules.
+
+This cannot be applied to games of "Best of X" nature, which always go into autoplay, rendering the player unable to drop or middle drop out of it. In case a player places a show, the disconnected one is given whichever is lesser - either the middle drop score or the saved group score. In case of disconnection after a discard and a show is made before the player's turn, the score is calculated using the saved cards, as autoplay does not apply in this case. If one disconnects before drawing the first card, the player will be dropped entirely, with the game not going into autoplay. This should be kept in mind, as players play Rummy.

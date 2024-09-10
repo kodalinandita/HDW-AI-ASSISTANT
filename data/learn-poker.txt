@@ -1,0 +1,208 @@
+Rules to Play Poker
+What is Poker?
+Poker is a family of card games in which players wager over which hand is best . Today it is usually played with a standard deck, thus poker games vary in deck configuration, the number of cards in play, the number of cards dealt face up or face down, and the number of cards shared by all players, but all have rules that involve one or more rounds of betting. Poker has many variations, all following a similar pattern of play and generally using the same hand history.
+
+Tips for beginner
+If you are completely new to poker and have no idea where to start, our view is that Texas Hold'em is the best game for beginners. It's the most popular, the most widely available, and it's one of the easier games to learn.
+
+Once you're familiar with Texas Hold'em, you can then start thinking about trying some of the other variants. Omaha is considered by many to be a good second game to learn, but it's really up to you. Just remember that it's always a good idea to learn how to play and practice on the fun app before proceeding further.
+
+How to play Poker?
+How to Play Poker
+
+Poker variations
+Poker has many variations, All following a similar pattern of play and generally using the same hand history.
+
+a. No- limit Texas hold'em (NLH)
+Texas Poker Game
+
+In Poker, "no limit Texas-hold'em" is a game where each player at the table is dealt two hole cards and there are five cards in the middle (the flop, turn and river) that are considered to be community cards. Each player at the table can use their hole cards and community cards to make their best possible hand.
+
+b. Pot Limit Omaha (PLO)
+Pot Limit Omaha Poker Game
+
+1. 4 hole cards are dealt instead of 2 to each player.
+
+2. A player must always use 2 cards from the 4 cards dealt to him/her and 3 cards from the 5 community cards to make the best 5 cards.
+
+3. A limit is placed on the maximum amount that can be raised in a user's turn. A user may raise any amount less than or equal to the pot value.
+
+Pot Limit Omaha 5
+5-card PLO rules are the same as 4-card PLO rules. You have to make your hand using forcibly 2 of your hole cards along with 3 out of 5 community cards.
+The only difference is you get an extra hole card, for a total of 5.
+
+Game Play
+There are three types of betting limits in a Poker game -
+
+Pot-Limit
+The player can bet or raise only up to the current size of the pot. This bet also depends on outstanding bets on table along with POT amount.
+
+No Limit
+As the name suggests, the player can bet or raise as much as they want anytime as much as their chip stack allows.
+
+Fixed Limit
+The player can bet/raise only up to a predetermined limit.
+(Limits each stage of game play)
+
+Regardless of the variant, the betting rules remain the same.
+
+In Texas Hold'em, Omaha & Omaha-5 there are the following betting rounds -
+
+Omaha Poker Game
+
+Pre-Flop
+It refers to that portion of the hand which is played prior to the dealing of the flop.
+
+Flop
+After the pre-flop round, 3 community cards are dealt face-up on the table and the next round of betting commences.
+
+Turn
+One more card is dealt and the third round of betting begins.
+
+River
+The final community card is dealt and the final round of betting starts.
+
+At the Showdown, all active players reveal their cards and the best five-card combination wins the pot.
+
+As per the strength of his/her in-hand cards, the player can choose to make any of the following actions on his/her turn to act.
+
+Bet
+Wagering Money in the pot.
+
+Raise
+Putting more money than your opponent wagered in the pot.
+
+Check
+Passing the action to the next player without wagering money in the pot. You can check only if no one makes a bet before your turn.
+
+Call
+Matching the amount of bet/raise made by your opponent.
+
+Fold
+Leaving the hand on your turn to act. You can fold your cards anytime during the game if you are not confident with the strength of your hand.
+
+Hand Rankings
+A common poker-hand rankings system underpins all forms of the game by classifying the relative strength of different types of poker hands. So players can determine which hand is best.
+
+Poker Hands
+
+Rank 1
+Hand Name : Royal Flush
+
+A Royal Flush is made out of 10, Jack, Queen, King, Ace, all of the same suit.
+
+How to Play Poker Game Online
+
+Rank 2
+Hand Name : Straight Flush
+
+A Straight Flush is five cards in a row, all in the same suit.
+
+How to Play Poker Games
+
+Rank 3
+Hand Name : Four of a Kind
+
+A Four of a Kind is the same card in each of the four suits.
+
+Texas Holdem Poker Game
+
+Rank 4
+Hand Name : Full house
+
+A Full House is a pair plus three of a kind in the same hand.
+
+Poker Card Sequence
+
+Rank 5
+Hand Name : Flush
+
+A Flush is five cards in the same suit, not in numerical order.
+
+How to Play Texas Poker Games Online
+
+Rank 6
+Hand Name : Straight
+
+A Straight is five cards in numerical order, but not in the same suit.
+
+How to Play Pot Limit Omaha Poker Games Online
+
+Rank 7
+Hand Name : Three of a kind
+
+Three of a Kind is three of one card and two non-paired cards.
+
+Rules to Play Texas Poker Games Online
+
+Rank 8
+Hand Name : Two Pair
+
+Two Pair is two different pairings or sets of the same card in one hand.
+
+Rules to Play Omaha Poker Games Online
+
+Rank 9
+Hand Name : One Pair
+
+One Pair is a pairing of the same card.
+
+Rules to Play Texas Holdem Poker Games Online
+
+Rank 10
+Hand Name : High Card
+
+A High Card refers to a hand with no matching cards.
+
+Poker Rules
+
+What is a Tournament ?
+A23 Poker
+
+A Poker tournament is a tournament where players compete by playing poker. It can feature as few as two or more players playing on a single table (called a "heads-up" tournament), and as many as tens of thousands of players playing on thousands of tables. The winner of the tournament is usually the person who wins every poker chip in the game and the others are awarded places based on the time of their elimination. To facilitate this, in most tournaments, blinds rise over the duration of the tournament. Unlike in a cash game, a player's chips in a tournament cannot be cashed out for amount and serve only to determine the player's placing.
+
+How to enter a Poker tournament in A23 ?
+To enter a poker tournament in A23, you need to follow the steps.
+
+Click on Poker tile> Click on the tournament section> Select the tournament that you want to join according to the time and Buy in> Register to the tournament> Join the table as the tournament starts.
+
+What all tournaments does A23 provide ?
+Guaranteed Tournaments
+Guaranteed tournaments or GTD tourneys are poker tournaments that have a guaranteed cash prizes. Irrespective of the number of players playing the tournament, the prize amount will be paid out to the players.
+
+Freeroll Tournaments
+Tournaments that have zero buy-in fee are called Freeroll tournaments. Players who register for freeroll tourneys stand to win cash prizes without paying any fee.
+
+Timer Tournaments
+Timer tournaments are poker tournaments that run for a limited time only. Once the time runs out, the players remaining will be ranked based on their chip stacks.
+
+Sit & Go Tournament
+A Sit and Go (SNG) Poker Tournament is a single table poker tournament which has no scheduled time and starts when the necessary number of players have registered. Sit & Go tournaments run for shorter duration compared to other tournaments.
+
+Satellite Tournament (Satty)
+A satellite tournament in poker is a qualifying event in which winners usually win a Ticket for a free buy-in to a larger & more prestigious tournament.
+
+Normal Bounty Tournament
+A bounty is a feature in some poker tournaments that rewards a player for eliminating/ knocking out another player. Depending on the tournament, a player will be rewarded for eliminating either a specific player, or any player. Bounty amount from eliminating an opponent will get added to the player's Poker balance.
+
+Progressive Bounty Tournament
+"Progressive Bounty tournament" is a variant of bounty tournament in which players collect a X% of a bounty amount if they knock out a player. The rest of the bounty is added to their own head (Player bounty amount + Knocked out player bounty %).
+
+Tourneys Glossary:
+Tourney fee - the total amount played by a player to enter a tournament. It includes buy-in fee and entry fee
+Buy-in fee - buy-in fee is the amount paid by a player to register for a tournament
+Prize - Prize amount is the total cash amount available to be won by the players. Based on prize structure, this amount will be distributed to the players
+Prize structure - Prize structure determines how many players won and their respective winnings amount after the tourney ends
+Starting stack - The number of chips a player gets at the start of a tournament is called the starting stack/starting chip stack
+Blinds level - In poker tournaments, blinds keep increasing after every X minutes. The duration in which a certain blind runs is called a level
+Next level - Refers to the blind that will run in the next level, after the end of current level
+Rebuy - A player can rebuy into a tournament if his chip stack goes below a certain level. Upon rebuy, chips will get added to the player's chip stack. Rebuys can be done until a predefined level only
+Addon - A player can top up his chip stack by using the add-on option. Add-on will be enabled during break time after the end of the rebuild period
+Re-entry - Re-entry enables a player to re enter a tournament once he exhausts chips and gets eliminated. Re-entry can be done until a predefined level only
+Ticket - A ticket will get you into a particular tournament without paying any tourney fee. Tickets can be earned through playing satellite games, or through promotional offers.
+Tourney break - To ensure that players take a break from continuous gameplay, all tournaments will have break time for every hour.
+Tournament rules:
+If the number of players remaining <= the number of winning positions in an active tournament, then late registrations, rebuys, add-ons and re-entries will be disabled. This is to ensure fair play for the players
+Add-on will be available to players during add-on break time only. Add-on break time will start after the rebuy window is closed
+In timer tournaments, players remaining after the last level will receive winnings proportionate to their final chips stack. If the tournament concludes before the end of the final level, the last remaining player will win the entire prize amount
+If a player wins tickets in multiple satellite tournaments, then the player will earn only one ticket for the parent tournaments. For the remaining wins, the player will receive cash prize(equal to buy-in of the parent tournament) instead of tickets
